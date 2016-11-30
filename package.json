@@ -14,7 +14,7 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "glob": "^7.0.5",
+    "glob-all": "^3.1.0",
     "require-cson": "^0.1.0"
   },
   "scripts": {
