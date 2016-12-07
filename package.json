@@ -23,6 +23,7 @@
   "engines": {
     "atom": "*"
   },
+  "main": "lib/index",
   "providedServices": {
     "modular-snippets": {
       "description": "Load any snippets object, file or folder.",
